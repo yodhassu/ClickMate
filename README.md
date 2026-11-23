@@ -1,4 +1,4 @@
-# ClickMate
+# ClickMate 
 
 A voice-driven, screen-aware helper for Windows. Hold a hotkey, ask a question about whatever is on your screen, and Clicky **answers out loud** and **points at the thing with a blue cursor**. It never touches your mouse or keyboard.
 
