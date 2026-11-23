@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Clicky Mini",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/app.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "env": {
+        "CLICKY_MODEL": "llava:7b"
+      }
+    }
+  ]
+}

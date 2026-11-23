@@ -1,0 +1,9 @@
+PyQt6>=6.7.0        # overlay window + tray icon
+pynput>=1.7.7       # global push-to-talk hotkey (observe-only)
+sounddevice>=0.5.0  # microphone capture
+numpy>=1.26.0
+mss>=9.0.1          # screenshot
+Pillow>=10.4.0      # image resize / grid drawing
+requests>=2.32.0    # talk to Ollama over HTTP
+pywin32>=306        # Windows SAPI5 text-to-speech (default Windows voice)
+pytest>=8.3.0       # tests (optional)
